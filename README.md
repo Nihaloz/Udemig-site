@@ -2,7 +2,7 @@
 
 I created a site using HTML, Bootsrap and style from a sample site.
 
-<h2>Ekra Gifi</h2>
+<h2>Ekran Gifi</h2>
 
 ![](ekran.gif)
 
