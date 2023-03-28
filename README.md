@@ -8,4 +8,3 @@ I created a site using HTML, Bootsrap and style from a sample site.
 
 # Udemig-site
 
-# Udemig-site
